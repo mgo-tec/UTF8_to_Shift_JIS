@@ -24,6 +24,6 @@
 
 JIS第一水準、第二水準、１３区が変換可能
 
-参照ブログ https://www.mgo-tec.com/
+参照ブログ https://www.mgo-tec.com/blog-entry-utf8sjis01.html
 
 The MIT license
