@@ -23,3 +23,7 @@
 アドレス0x3A8DE "～" UTF8= EFBD9E、Shift_JIS= 0x8160
 
 JIS第一水準、第二水準、１３区が変換可能
+
+参照ブログ https://www.mgo-tec.com/
+
+The MIT license
