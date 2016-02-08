@@ -1,5 +1,5 @@
 # Binary Conversion Table from UTF8 to Shift_JIS.
-# version 1.0
+# version 1.1 半角カナに対応しました
 アドレス0xB0 "¢" UTF8= C2A2～、Shift_JIS= 0x8191
 
 アドレス0x1EEC "‐" UTF8= E28090～、Shift_JIS= 0x815D
@@ -21,6 +21,9 @@
 アドレス0x3A6A4 "！" UTF8= EFBC81～、Shift_JIS= 0x8149
 
 アドレス0x3A8DE "～" UTF8= EFBD9E、Shift_JIS= 0x8160
+
+半角カナ UTF8= EFBDA1～EFBE9F をASCIIコードに変換。２バイト目はゼロ。
+
 
 JIS第一水準、第二水準、１３区が変換可能
 
